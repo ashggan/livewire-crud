@@ -17,6 +17,7 @@ Live Crud Generator. This package generates Basic Crud with Livewire.
  - Create / Update / Delete Functional
  - Real Time Validation Already Added
  - Fuzzy Search Functional
+ - image / file upload functionality 
 
 ## Installation
 
